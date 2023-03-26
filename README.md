@@ -10,6 +10,7 @@
 
 
 ### some contributions to be added
+##### make methods for Sha1 Encryption and generate Tekon a shared methods on project Level
 ##### generic return DTO depend on the marketing consent
 
 ### releases
